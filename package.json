@@ -14,7 +14,7 @@
     "object-assign": "^3.0.0",
     "raf": "^3.0.0",
     "react-motion": "0.0.3",
-    "react-router": "@1.0.0-beta3",
+    "react-router": "1.0.0-beta3",
     "url": "^0.10.2"
   },
   "peerDependencies": {
